@@ -7,6 +7,7 @@ public class HelloWorld {
 		{
 			System.out.println("Print this 10 times");
 		}
+		int n;
 	}
 
 }
