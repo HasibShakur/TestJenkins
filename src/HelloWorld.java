@@ -11,6 +11,10 @@ public class HelloWorld {
 		int y;
 		String str;
 		//test;
+		if(true)
+		{
+		    System.out.println("Test");
+		}
 	}
 
 }
