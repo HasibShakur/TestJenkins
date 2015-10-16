@@ -15,6 +15,10 @@ public class HelloWorld {
 		{
 		    System.out.println("Test");
 		}
+		else
+		{
+		    //will never reach here
+		}
 	}
 
 }
