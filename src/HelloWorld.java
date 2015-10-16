@@ -10,6 +10,7 @@ public class HelloWorld {
 		int n;
 		int y;
 		String str;
+		test;
 	}
 
 }
